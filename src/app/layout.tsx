@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Devs Empire | Earn Passive Income by Selling Hosting",
+  title: "Devs Empire | Earn Passive Income by Recommending Hosting",
   description: "Turn each client into monthly passive income. Join our network of developers and start earning today.",
-  keywords: "passive income, developers, web hosting, commission, MLM, SaaS",
+  keywords: "passive income, developers, web hosting, referrals, commission, SaaS",
 };
 
 export default function RootLayout({

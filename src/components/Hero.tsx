@@ -46,10 +46,10 @@ const Hero = () => {
             transition={{ duration: 0.8 }}
           >
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
-              <span className="gradient-text">Earn Passive Income</span> by Selling Hosting
+              <span className="gradient-text">Earn Passive Income</span> by Recommending Hosting
             </h1>
             <h2 className="text-xl md:text-2xl text-gray-dark mb-8">
-              Turn each client into monthly passive income. Recruit other devs and earn up to 15% on their sales.
+              Get paid for something you already do for free with clients. Recommend hosting and earn 70% of what they pay instead of nothing.
             </h2>
             <div className="flex flex-col sm:flex-row gap-4">
               <Link href="#join" className="gradient-bg text-white font-medium px-8 py-4 rounded-full text-center flex items-center justify-center gap-2 hover:opacity-90 transition-opacity">

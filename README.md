@@ -1,6 +1,6 @@
 # Devs Empire - Landing Page
 
-A modern and professional landing page for "Devs Empire", a platform that allows developers to earn passive income by selling hosting services and recruiting other developers.
+A modern and professional landing page for "Devs Empire", a platform that allows developers to earn passive income by recommending hosting services and recruiting other developers.
 
 ## 🚀 Features
 
