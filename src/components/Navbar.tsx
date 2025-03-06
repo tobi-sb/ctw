@@ -41,6 +41,9 @@ const Navbar = () => {
             <Link href="#how" className="text-foreground hover:text-primary transition-colors">
               How It Works
             </Link>
+            <Link href="#tools" className="text-foreground hover:text-primary transition-colors">
+              Tools
+            </Link>
             <Link href="#testimonials" className="text-foreground hover:text-primary transition-colors">
               Testimonials
             </Link>
@@ -77,6 +80,9 @@ const Navbar = () => {
               </Link>
               <Link href="#how" className="text-foreground hover:text-primary transition-colors py-2" onClick={() => setIsOpen(false)}>
                 How It Works
+              </Link>
+              <Link href="#tools" className="text-foreground hover:text-primary transition-colors py-2" onClick={() => setIsOpen(false)}>
+                Tools
               </Link>
               <Link href="#testimonials" className="text-foreground hover:text-primary transition-colors py-2" onClick={() => setIsOpen(false)}>
                 Testimonials

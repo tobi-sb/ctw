@@ -81,32 +81,32 @@ const Hero = () => {
               <div className="space-y-4">
                 <div className="bg-gray-light rounded-lg p-4 flex justify-between items-center">
                   <div>
-                    <p className="text-sm text-gray-dark">1 client</p>
-                    <p className="font-bold">$10/month</p>
+                    <p className="text-sm text-gray-dark">10 clients</p>
+                    <p className="font-bold">$250/month</p>
                   </div>
                   <div className="text-right">
                     <p className="text-sm text-gray-dark">Your commission</p>
-                    <p className="font-bold text-primary">$7/month</p>
+                    <p className="font-bold text-primary">$175/month</p>
                   </div>
                 </div>
                 <div className="bg-gray-light rounded-lg p-4 flex justify-between items-center">
                   <div>
-                    <p className="text-sm text-gray-dark">10 clients</p>
-                    <p className="font-bold">$100/month</p>
+                    <p className="text-sm text-gray-dark">25 clients</p>
+                    <p className="font-bold">$650/month</p>
                   </div>
                   <div className="text-right">
                     <p className="text-sm text-gray-dark">Your commission</p>
-                    <p className="font-bold text-primary">$70/month</p>
+                    <p className="font-bold text-primary">$455/month</p>
                   </div>
                 </div>
                 <div className="bg-gray-light rounded-lg p-4 flex justify-between items-center">
                   <div>
                     <p className="text-sm text-gray-dark">50 clients</p>
-                    <p className="font-bold">$500/month</p>
+                    <p className="font-bold">$1,300/month</p>
                   </div>
                   <div className="text-right">
                     <p className="text-sm text-gray-dark">Your commission</p>
-                    <p className="font-bold text-primary">$350/month</p>
+                    <p className="font-bold text-primary">$910/month</p>
                   </div>
                 </div>
                 <div className="bg-primary/10 rounded-lg p-4 border border-primary/30">
@@ -117,6 +117,10 @@ const Hero = () => {
                     <span>10% on 1st level</span>
                     <span>5% on 2nd level</span>
                   </div>
+                </div>
+                <div className="text-xs text-gray-dark text-center">
+                  <p>Service prices: Static $13/mo, E-commerce $42/mo, Mobile $62/mo</p>
+                  <p>Your commission: 70% of each subscription</p>
                 </div>
               </div>
             </div>
